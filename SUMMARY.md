@@ -4,3 +4,6 @@
 - [天龙八部](novel3.md)
 - [射雕英雄传](novel4.md)
 - [书剑恩仇录](novel5.md)
+- [碧血剑](novel6.md)
+- [鸳鸯刀](novel7.md)
+- [侠客行](novel8.md)
